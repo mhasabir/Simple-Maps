@@ -1,0 +1,6 @@
+.map-container {
+  height: calc(100% - 408px) !important;
+  width: calc(100% - 408px) !important;
+  max-height: calc(100% - 408px) !important;
+  max-width: calc(100% - 408px) !important;
+}
